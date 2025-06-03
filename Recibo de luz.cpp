@@ -4,7 +4,7 @@ using namespace std;
 int main (){
 
     int tarifa, consumo;
-    cout << "Ingrese su consumo en kwh" << endl;
+    cout << "Ingrese su consumo en kwhkkkkk" << endl;
     cin >> consumo;
 
        if (consumo < 100){
